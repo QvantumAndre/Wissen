@@ -1,5 +1,7 @@
-# Table of contents
-# QVANTUM für Planer
+# QVANTUM-Wissensdatenbank
+## QVANTUM für Planer
+- [Video Tutorial](./video-tutorial.md)
+## Formulare
   - Formulare
     - [Übersicht über den Tab Formulare](./Übersicht_über_den_Tab_Formulare.md)
     - [Formulare anlegen und erweitern](./Formulare_anlegen_und_erweitern.md)
@@ -7,6 +9,8 @@
     - [Suche innerhalb einer Dimension](./Suche_innerhalb_einer_Dimension.md)
     - [Zahlformatierungen](./Zahlformatierungen.md)
     - [Zellfunktionen](./Zellfunktionen.md)
+    - [Verteilmöglichkeiten in verschachtelten Ebenen](./Verteilmöglichkeiten_in_verschachtelten_Ebenen.md)
+  - Weiteres zu den Konfigurationsmöglichkeiten
   - [Account-Verwaltung](./Account-Verwaltung.md)
   - [Changelog_für_das_Deployment_auf_Demo_und_Production](./Changelog_für_das_Deployment_auf_Demo_und_Production.md)
   - [Die_drei_Modi_der_Achsenkonfiguration](./Die_drei_Modi_der_Achsenkonfiguration.md)
